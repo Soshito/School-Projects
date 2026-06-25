@@ -1,0 +1,43 @@
+# You can override the included template(s) by including variable overrides
+# SAST customization: https://docs.gitlab.com/ee/user/application_security/sast/#customizing-the-sast-settings
+# Secret Detection customization: https://docs.gitlab.com/ee/user/application_security/secret_detection/pipeline/#customization
+# Dependency Scanning customization: https://docs.gitlab.com/ee/user/application_security/dependency_scanning/#customizing-the-dependency-scanning-settings
+# Container Scanning customization: https://docs.gitlab.com/ee/user/application_security/container_scanning/#customizing-the-container-scanning-settings
+# Note that environment variables can be set in several places
+# See https://docs.gitlab.com/ee/ci/variables/#cicd-variable-precedence
+stages:
+- build
+- test
+- deploy
+
+sast:
+  stage: test
+include:
+- template: Security/SAST.gitlab-ci.yml
+
+image: node:latest  # Optional, based on your needs
+
+build: # builds frontend features
+  stage: build
+  script:
+    - ls -la
+    - cd Frontend
+    - npm ci
+    - npm run build
+    - ls -la build/
+  artifacts:
+    paths:
+      - Frontend/build
+  only:
+    - dev
+
+pages: # deploys the website to link under Deploy > Pages
+  stage: deploy
+  script:
+    - mv Frontend/build public
+    - ls -la public
+  artifacts:
+    paths:
+      - public
+  only:
+    - dev

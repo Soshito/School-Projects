@@ -1,0 +1,107 @@
+/* General Styles */
+html, body {
+  font-family: 'Helvetica Neue', sans-serif;
+  background-color: #222; /* Fallback dark mode background */
+  color: #f0f0f0; /* Dark mode text color */
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  overflow: auto; /* Prevent scrolling */
+}
+
+/* Main App Container */
+.App {
+  padding-top: 0px; /* Space for navbar */
+  height: calc(100vh); /* Adjust height to account for navbar */
+  width: 100%;
+  position: relative;
+  overflow: auto;
+}
+
+/* Video Background */
+.background-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 111%;
+  object-fit: cover;
+  z-index: -1;
+  opacity: 0.8; /* Adjust opacity as needed */
+  /*outline: 2px solid red*/;
+}
+
+/* Navbar Styles */
+.transparent-navbar {
+  background-color: rgba(0, 0, 0, 0.3) !important; /* Semi-transparent black background */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5); /* Soft shadow for depth */
+}
+
+.transparent-navbar .navbar-brand,
+.transparent-navbar .nav-link {
+  color: #ffffff !important; /* White text for visibility against background */
+  font-weight: bold;
+}
+
+.transparent-navbar .nav-link {
+  margin-right: 15px;
+  /*transition: color 0.3s ease-in-out;  Smooth transition for color changes */
+}
+
+.transparent-navbar .nav-link:hover {
+  color: #3a3b3b !important; /* Bright cyan color on hover for contrast */
+}
+
+.transparent-navbar .navbar-toggler {
+  border: none; /* Remove default border from toggle button */
+}
+
+.transparent-navbar .navbar-toggler-icon {
+  background-color: auto; /* White color for toggler icon */
+}
+
+
+/* Start Container */
+.start-container {
+  width: 100%;
+  height: calc(100vh - 70px); /* Adjust height for navbar */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  z-index: 1; /* Ensure content is above the video */
+}
+
+/* START AR Button */
+.start-button {
+  padding: 20px 40px;
+  font-size: 24px;
+  background-color: #007bff;
+  color: #ffffff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s, transform 0.3s;
+  z-index: 2; /* Ensure button is above the video */
+}
+
+.start-button:hover {
+  background-color: #0056b3;
+  transform: scale(1.05);
+}
+
+.start-button:active {
+  transform: scale(1);
+}
+
+/* AR Mode Fullscreen Container */
+.ar-mode {
+  width: 100%;
+  height: 100vh;
+  background-color: #000;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}

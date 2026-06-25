@@ -1,0 +1,165 @@
+{
+  "simulation": true,
+  "safe_mode": true,
+  "run_id": "20260421_224630",
+  "root": "C:\\Users\\jakek\\Desktop\\Repositories\\lordofthepings\\project_files",
+  "generated_at": "2026-04-21T22:46:30.139481",
+  "targets": [
+    {
+      "relative_path": "Desktop\\shortcut.txt",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "timestamp": "2026-04-21T22:46:30.222225",
+      "run_id": "20260421_224630"
+    },
+    {
+      "relative_path": "Desktop\\todo.txt",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "timestamp": "2026-04-21T22:46:30.263260",
+      "run_id": "20260421_224630"
+    },
+    {
+      "relative_path": "Documents\\Homework.txt",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "timestamp": "2026-04-21T22:46:30.295261",
+      "run_id": "20260421_224630"
+    },
+    {
+      "relative_path": "Documents\\Passwords.txt",
+      "size_bytes": 31,
+      "sha256": "5b33be752edbd7a79450cda44ea709bcbc486a0ec6dd1ce5e84d4a0ea5bcaceb",
+      "timestamp": "2026-04-21T22:46:30.343229",
+      "run_id": "20260421_224630"
+    },
+    {
+      "relative_path": "Documents\\ProjectProposal.pdf",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "timestamp": "2026-04-21T22:46:30.380230",
+      "run_id": "20260421_224630"
+    },
+    {
+      "relative_path": "Documents\\Resume.docx",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "timestamp": "2026-04-21T22:46:30.413228",
+      "run_id": "20260421_224630"
+    },
+    {
+      "relative_path": "Downloads\\archive.zip",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "timestamp": "2026-04-21T22:46:30.447229",
+      "run_id": "20260421_224630"
+    },
+    {
+      "relative_path": "Downloads\\readme.txt",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "timestamp": "2026-04-21T22:46:30.488220",
+      "run_id": "20260421_224630"
+    },
+    {
+      "relative_path": "Music\\Playlist.txt",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "timestamp": "2026-04-21T22:46:30.531228",
+      "run_id": "20260421_224630"
+    },
+    {
+      "relative_path": "Music\\Song1.mp3",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "timestamp": "2026-04-21T22:46:30.569223",
+      "run_id": "20260421_224630"
+    },
+    {
+      "relative_path": "Music\\Song2.mp3",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "timestamp": "2026-04-21T22:46:30.606223",
+      "run_id": "20260421_224630"
+    },
+    {
+      "relative_path": "Pictures\\dog.png",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "timestamp": "2026-04-21T22:46:30.643225",
+      "run_id": "20260421_224630"
+    },
+    {
+      "relative_path": "Pictures\\Screenshot.png",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "timestamp": "2026-04-21T22:46:30.688221",
+      "run_id": "20260421_224630"
+    },
+    {
+      "relative_path": "Pictures\\Vacation.jpg",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "timestamp": "2026-04-21T22:46:30.725220",
+      "run_id": "20260421_224630"
+    },
+    {
+      "relative_path": "System\\log.txt",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "timestamp": "2026-04-21T22:46:31.142006",
+      "run_id": "20260421_224630"
+    },
+    {
+      "relative_path": "System\\users.db",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "timestamp": "2026-04-21T22:46:31.201006",
+      "run_id": "20260421_224630"
+    },
+    {
+      "relative_path": "Videos\\Demo.mp4",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "timestamp": "2026-04-21T22:46:31.241011",
+      "run_id": "20260421_224630"
+    },
+    {
+      "relative_path": "Videos\\Lecture.mp4",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "timestamp": "2026-04-21T22:46:31.284010",
+      "run_id": "20260421_224630"
+    }
+  ],
+  "config": {
+    "target_exts": [
+      ".csv",
+      ".db",
+      ".docx",
+      ".jpeg",
+      ".jpg",
+      ".mp3",
+      ".mp4",
+      ".pdf",
+      ".png",
+      ".pptx",
+      ".txt",
+      ".xlsx",
+      ".zip"
+    ],
+    "skip_dirs": [
+      "simulation_output"
+    ],
+    "original_files_untouched": true
+  },
+  "stats": {
+    "paths_discovered": 68,
+    "files_scanned": 49,
+    "files_skipped": 31,
+    "files_targeted": 18,
+    "files_locked": 18,
+    "notes_written": 7,
+    "errors": 0
+  }
+}

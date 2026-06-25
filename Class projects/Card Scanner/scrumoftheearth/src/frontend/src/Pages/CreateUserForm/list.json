@@ -1,0 +1,14 @@
+[
+    {
+        "userType": "Student",
+        "emote": "👨‍🎓"
+    },
+    {
+        "userType": "Professor",
+        "emote": "🧑‍🏫"
+    },
+    {
+        "userType": "Administrator",
+        "emote": "🛡️"
+    }
+]

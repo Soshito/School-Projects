@@ -1,0 +1,280 @@
+{
+  "markers": [
+    {
+      "name": "Marker 1 S1",
+      "mainData": "September 2015 – NASA selected Mission Psyche for a concept study as part of the Discovery Program with Principal Investigator Lindy Elkins-Tanton developing a detailed proposal. After submitting a 1000-page concept study and site visit review, NASA announced the mission selection for flight.",
+      "additionalInfo": "Additional details for Marker 1"
+    },
+    {
+      "name": "Marker 1 S2",
+      "mainData": "January 2017 - The mission's science and engineering teams designed the spacecraft and its instruments to analyze the asteroid, completing the Preliminary Design Review in March 2019. In May 2019, they received official approval to move to the phase.",
+      "additionalInfo": "Additional details for Marker 1"
+    },
+    {
+      "name": "Marker 1 S3",
+      "mainData": "May 2019 – The science and engineering team begins building the instruments for the Psyche mission.  In May 2020, the teams undergo Project and Flight System Critical Design Review, and the body of the spacecraft is completed. ",
+      "additionalInfo": "Additional details for Marker 1"
+    },
+    {
+      "name": "Marker 1 S4",
+      "mainData": "January 2021 – The spacecraft undergoes testing and is sent to the launch site. The team conducts the Operations Readiness Review to ensure the system, procedures, and all supporting software and personnel are ready and fully operational. ",
+      "additionalInfo": "Additional details for Marker 1"
+    },
+    {
+      "name": "Marker 1 S5",
+      "mainData": "October 2023 – The Psyche spacecraft is launched from NASA’S Kennedy Space Center in Florida on October 12, 2023, at 10:16 a.m. EDT on a SpaceX Falcon Heavy rocket. ",
+      "additionalInfo": "Additional details for Marker 1"
+    },
+    {
+      "name": "Marker 1 S6",
+      "mainData": "May 2026 – The spacecraft is expected to fly between about 1,900 to 2,700 miles (3,000 to 4,400 kilometers) above Mars. The spacecraft will be using the planet’s gravity as a sling shot to increase velocity. ",
+      "additionalInfo": "Additional details for Marker 1"
+    },
+    {
+      "name": "Marker 1 S7",
+      "mainData": "July 2029 – If all goes as planned, the asteroid Psyche’s gravity will capture the spacecraft after a journey of about 2.2 billion miles (3.6 billion kilometers). Over the next 20 days, the spacecraft will get into position to start studying the Psyche asteroid. ",
+      "additionalInfo": "Additional details for Marker 1"
+    },
+    {
+      "name": "Marker 1 S8",
+      "mainData": "August 2029 – November 2031 – The mission has begun. The spacecraft conducts its prime mission, gathering science data while orbiting the asteroid. ",
+      "additionalInfo": "Additional details for Marker 1"
+    },
+    {
+      "name": "Marker 2",
+      "mainData": "Psyche Mission",
+      "additionalInfo": "Studying the asteroid Psyche could reveal clues about the origins of Earth and our solar system, as it may be a remnant of an early rocky planet. It's unusual features might even surprise scientists and reshape our understanding of how solar system objects form."
+    },
+    {
+      "name": "Marker 3 Pop Up #0",
+      "mainData": "Instructions",
+      "additionalInfo": "Can you find all of the nodes? Rotate Psyche and see if you can find and tap all 6 nodes to unlock more photos, videos, and facts about Psyche!"
+    },
+    {
+      "name": "Marker 3 Pop Up #1",
+      "mainData": "Psyche's Mystery",
+      "additionalInfo": "If scientists discover that Psyche is not an exposed core of an early planetary building block, it may prove to be an even rarer kind of primordial solar system object, one that’s never been seen before."
+    },
+    {
+      "name": "Marker 3 Pop Up #2",
+      "mainData": "Psyche's Size",
+      "additionalInfo": "Psyche has an irregular, potato-like shape. However, if Psyche were a perfect sphere, it would have a diameter of 140 miles (226 kilometers), or about the length of the State of Massachusetts (leaving out Cape Cod)."
+    },
+    {
+      "name": "Marker 3 Pop Up #3",
+      "mainData": "Psyche's Origin",
+      "additionalInfo": "Psyche is most likely a survivor of multiple violent hit-and-run collisions, common when the solar system was forming. Thus, Psyche may be able to tell us how Earth’s core and the cores of the other rocky, or terrestrial, planets came to be."
+    },
+    {
+      "name": "Marker 3 Pop Up #4",
+      "mainData": "Psyche's Discovery",
+      "additionalInfo": "Psyche was the 16th asteroid to ever be discovered! Psyche was found in 1852 by Italian astronomer Annibale de Gasparis, who named it for the goddess of the soul in ancient Greek mythology who is often depicted as a butterfly-winged female figure."
+    },
+    {
+      "name": "Marker 3 Pop Up #5",
+      "mainData": "Psyche's Material",
+      "additionalInfo": "Recent data indicates that the asteroid is possibly a mix of metal and silicate, the same material found in glass and sand. The best analysis indicates that Psyche is likely made of a mixture of rock and metal, with metal composing 30% to 60% of its volume."
+    },
+    {
+      "name": "Marker 3 Pop Up #6",
+      "mainData": "Psyche's Gravity",
+      "additionalInfo": "Psyche is dense, estimated at about 212 to 256 pounds per cubic foot (3,400 to 4,100 kilograms per cubic meter). The surface gravity on Psyche is much less than it is on Earth, even less than it is on Earth’s Moon. On Psyche, lifting a car would feel like lifting a large dog."
+    },
+    {
+      "name": "Marker 4 Pop Up #0",
+      "mainData": "Instructions",
+      "additionalInfo": "Want to learn more about the Psyche's Spacescraft? Rotate the craft and tap all 5 nodes to unlock more photos, videos, and facts about the Psyche Spacecraft!"
+    },
+    {
+      "name": "Marker 4 Pop Up #1",
+      "mainData": "Multispectral Imager",
+      "additionalInfo": "The Multispectral Imager will be used to photograph and map the asteroid. It will also use 7 different near-infrared filters to isolate mineral light wavelengths, determining what metals are on the surface."
+    },
+    {
+      "name": "Marker 4 Pop Up #2",
+      "mainData": "Magnetometer",
+      "additionalInfo": "Psyche’s magnetometer will look for evidence of an ancient magnetic field at the asteroid Psyche. A residual magnetic field would be strong evidence the asteroid formed from the core of a planetary body."
+    },
+    {
+      "name": "Marker 4 Pop Up #3",
+      "mainData": "Radio Science ",
+      "additionalInfo": "The Telecommunications system will be used to send data to and from Psyche. Additionally, by analyzing how the asteroid affects radio waves, we can determine the rotation, mass, and gravity field of the asteroid."
+    },
+    {
+      "name": "Marker 4 Pop Up #4",
+      "mainData": "Spectrometer",
+      "additionalInfo": "Psyche’s Gamma-Ray and Neutron Spectrometer will help scientists determine what chemical elements make up the asteroid by analyzing the amount of energy being released from elements on the surface."
+    },
+    {
+      "name": "Marker 4 Pop Up #5",
+      "mainData": "DSOC",
+      "additionalInfo": "The Deep Space Optical Communication (DSOC) system will be used to test a new, more efficient method of data transmission from within deep space, possibly making deep-space radio communications obsolete."
+    },
+    {
+      "name": "Marker 5 Orbit 1",
+      "mainData": "Orbit A",
+      "additionalInfo": "Orbit A of the Psyche mission will last 56 days (August–October 2029), with the spacecraft circling the asteroid every 32.6 hours at an altitude of about 441 miles (709 km). During this phase, the Multispectral Imager will focus on high-resolution imaging and mapping."
+    },
+    {
+      "name": "Marker 5 Orbit 2",
+      "mainData": "Orbit B1",
+      "additionalInfo": "Orbit B1 of the Psyche mission will span 92 days (late October 2029–late January 2030), with the spacecraft completing an orbit every 11.6 hours at an altitude of about 188 miles (303 km). This phase will focus on mapping Psyche’s topography and geology."
+    },
+    {
+      "name": "Marker 5 Orbit 3",
+      "mainData": "Orbit C",
+      "additionalInfo": "The spacecraft will orbit Psyche at an altitude of about 188 miles (303 km) for 100 days starting in May 2031, completing one orbit every 11.6 hours. With 80% of Psyche illuminated by the sun, the mission will focus on mapping the asteroid’s topography and geology."
+    },
+    {
+      "name": "Marker 5 Orbit 4",
+      "mainData": "Orbit B2",
+      "additionalInfo": "The spacecraft will orbit Psyche at an altitude of about 118 miles (190 km) for 100 days from mid-January to May 2031, completing one orbit every 7.2 hours. With 90% of Psyche illuminated by the sun, the mission will focus on topography, high-priority magnetic field and gravity."
+    },
+    {
+      "name": "Marker 5 Orbit 5",
+      "mainData": "Orbit D",
+      "additionalInfo": "The spacecraft will orbit Psyche at an altitude of about 47 miles (75 km) for 100 days starting in May 2030, completing one orbit every 3.6 hours. With 55% of Psyche illuminated by the sun, the mission will focus on measuring the asteroid’s composition, gravity field, and magnetic field."
+    },
+    {
+      "name": "Marker 6",
+      "mainData": "Pysche Quiz",
+      "additionalInfo": "Take this quick 5 question quiz to see how much of an astronaut you are!"
+    },
+    {
+      "name": "Marker 6 Question 1",
+      "mainData": "Question 1",
+      "additionalInfo": "How many years will the Psyche spacecraft take to reach the asteroid since its launch?"
+    },
+    {
+      "name": "Marker 6 Question 1 Correct Text",
+      "mainData": "Correct! The Psyche spacecraft launched in 2023 and will be arriving in 2029!",
+      "additionalInfo": "You are correct!"
+    },
+    {
+      "name": "Marker 6 Question 1 Incorrect Text",
+      "mainData": "Sorry! The Psyche spacecraft launched in 2023 and will be arriving in 2029.",
+      "additionalInfo": "You are incorrect!"
+    },
+    {
+      "name": "Marker 6 Question 2",
+      "mainData": "Question 2",
+      "additionalInfo": "If the Psyche Asteroid was perfectly spherical what would the diameter be?"
+    },
+    {
+      "name": "Marker 6 Question 2 Correct Text",
+      "mainData": "Correct! The asteroid would be 140 mi, about the length of Massachusetts.",
+      "additionalInfo": "You are correct!"
+    },
+    {
+      "name": "Marker 6 Question 2 Incorrect Text",
+      "mainData": "Not quite! The asteroid would be 140 mi, about the length of Massachusetts.",
+      "additionalInfo": "You are incorrect!"
+    },
+    {
+      "name": "Marker 6 Question 3",
+      "mainData": "Question 3",
+      "additionalInfo": "What two planets are the asteroid Psyche located between?"
+    },
+    {
+      "name": "Marker 6 Question 3 Correct Text",
+      "mainData": "Correct! Psyche is located in the outer part of the main asteroid belt between Mars and Jupiter.",
+      "additionalInfo": "You are correct!"
+    },
+    {
+      "name": "Marker 6 Question 3 Incorrect Text",
+      "mainData": "Off course! The Psyche asteroid is located in the outer part of the main asteroid belt between Mars and Jupiter.",
+      "additionalInfo": "You are incorrect!"
+    },
+    {
+      "name": "Marker 6 Question 4",
+      "mainData": "Question 4",
+      "additionalInfo": "What state did the Psyche spacecraft launch from?"
+    },
+    {
+      "name": "Marker 6 Question 4 Correct Text",
+      "mainData": "Correct! The Psyche spacecraft launched from NASA’s Kennedy Space Center in Florida!",
+      "additionalInfo": "You are correct!"
+    },
+    {
+      "name": "Marker 6 Question 4 Incorrect Text",
+      "mainData": "Off target! The Psyche spacecraft launched from NASA’s Kennedy Space Center in Florida!",
+      "additionalInfo": "You are incorrect!"
+    },
+    {
+      "name": "Marker 6 Question 5",
+      "mainData": "Question 5",
+      "additionalInfo": "Roughly, how long will the spacecraft orbit the Psyche Asteroid"
+    },
+    {
+      "name": "Marker 6 Question 5 Correct Text",
+      "mainData": "Correct! The Psyche spacecraft will be orbiting for roughly 26 months.",
+      "additionalInfo": "You are correct!"
+    },
+    {
+      "name": "Marker 6 Question 5 Incorrect Text",
+      "mainData": "Nice try! The Psyche spacecraft will be orbiting for roughly 26 months.",
+      "additionalInfo": "You are incorrect!"
+    },
+    {
+      "name": "Marker 6 End Panel",
+      "mainData": "Congratulations!",
+      "additionalInfo": "You completed the Psyche quiz. You got __ questions right meaning you are a certified NASA astronaut now!"
+    },
+    {
+      "name": "Marker 6 End Panel 5 Right",
+      "mainData": "Congratulations!",
+      "additionalInfo": "You completed the Psyche quiz. You got 5 questions right!\n\nMission control is standing by. You're ready for launch!"
+    },
+    {
+      "name": "Marker 6 End Panel 4 Right",
+      "mainData": "Congratulations!",
+      "additionalInfo": "You completed the Psyche quiz. You got 4 questions right!\n\nYou're cleared for orbit — just don't forget your space snacks."
+    },
+    {
+      "name": "Marker 6 End Panel 3 Right",
+      "mainData": "Congratulations!",
+      "additionalInfo": "You completed the Psyche quiz. You got 3 questions right!\n\nYou're Space Cadet certified. A little more training and you’ll be ready to dock."
+    },
+    {
+      "name": "Marker 6 End Panel 2 Right",
+      "mainData": "Congratulations!",
+      "additionalInfo": "You completed the Psyche quiz. You got 2 questions right!\n\nGrounded for now... but your cosmic curiosity is strong."
+    },
+    {
+      "name": "Marker 6 End Panel 1 Right",
+      "mainData": "Congratulations!",
+      "additionalInfo": "You completed the Psyche quiz. You got 1 questions right!\n\nHey, even Neil Armstrong had to start somewhere. Study up, recruit!"
+    },
+    {
+      "name": "Marker 6 End Panel 0 Right",
+      "mainData": "Congratulations!",
+      "additionalInfo": "You completed the Psyche quiz. You got 0 questions right!\n\nHey, even Neil Armstrong had to start somewhere. Study up, recruit!"
+    },
+    {
+      "name": "Game Tutorial 1",
+      "mainData": "How To Play",
+      "additionalInfo": "Tap and drag the Satellite backwards, then let go to launch it. The more you pull it back, the faster it will go when you release."
+    },
+    {
+      "name": "Game Tutorial 2",
+      "mainData": "How To Play",
+      "additionalInfo": "Thrusters can be activated using the buttons on the bottom of the screen. Left and right buttons turn it, and up and down buttons move it forward or backward."
+    },
+    {
+      "name": "Game Tutorial 3",
+      "mainData": "How To Play",
+      "additionalInfo": "Thrusters use fuel! When the fuel runs out, you can't use the thrusters anymore. You can see how much fuel is left on the left side of the screen."
+    },
+    {
+      "name": "Game Tutorial 4",
+      "mainData": "How To Play",
+      "additionalInfo": "Try to reach the green flag! When your Satellite touches it, the level is completed and the next one is unlocked."
+    },
+    {
+      "name": "Game Tutorial 5",
+      "mainData": "How To Play",
+      "additionalInfo": "Some objects in space, like planets and asteroids, can help or slow you down. Their gravity pulls the Satellite, which you can use to move faster — but don’t crash into them!"
+    }
+  ]
+  }
+  

@@ -1,0 +1,9 @@
+/* Name: Sam Miller
+Project: Attendance App - This is a full stack attendance tracking and management software
+Purpose: Styling for frontent page for users to create meeting times. */
+
+.day-checkbox {
+    display: inline-block;
+    margin-right: 10px; /* Space out the checkboxes horizontally */
+    font-size: 16px; /* Larger text for better readability */
+}

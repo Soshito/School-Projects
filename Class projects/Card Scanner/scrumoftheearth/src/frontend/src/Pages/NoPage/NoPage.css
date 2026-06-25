@@ -1,0 +1,16 @@
+/* body {
+    background: url(./lightGrey.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+} */
+
+.bg {
+    background-image: url(../../Components/Assets/gumballRizz.png);
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    text-align: center;
+    font-size: 50px;
+} 

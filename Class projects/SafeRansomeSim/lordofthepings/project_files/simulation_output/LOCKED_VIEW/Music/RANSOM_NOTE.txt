@@ -1,0 +1,9 @@
+*** YOUR FILES HAVE BEEN LOCKED (SIMULATION) ***
+
+This is a SAFE classroom simulation. No real encryption was performed.
+Your original files are still intact.
+
+Artifacts created:
+- simulation_output/LOCKED_VIEW (parallel "locked" view)
+- simulation_output/manifest.json (scope + hashes)
+- simulation_output/sim.log + events.jsonl (detailed logging)

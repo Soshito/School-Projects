@@ -1,0 +1,6 @@
+Postgres hostname: marigold.csse.uwplatt.edu
+Postgres database name: brodied
+Postgres username: brodied
+Postgres password: brodied
+
+-- Updated database info --

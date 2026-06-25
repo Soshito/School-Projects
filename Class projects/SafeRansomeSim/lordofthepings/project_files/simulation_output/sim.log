@@ -1,0 +1,371 @@
+2026-02-27 13:33:44,953 INFO Simulation starting (SAFE mode). Root=C:\Spring 2026\Cybersecurity Project\lordofthepings\project_files
+2026-02-27 13:33:44,956 INFO Discovered 31 total paths.
+2026-02-27 13:33:44,958 INFO Target selected: Desktop\shortcut.txt
+2026-02-27 13:33:44,961 INFO Target selected: Desktop\todo.txt
+2026-02-27 13:33:44,963 INFO Target selected: Documents\Homework.txt
+2026-02-27 13:33:44,966 INFO Target selected: Documents\Passwords.txt
+2026-02-27 13:33:44,970 INFO Target selected: Documents\ProjectProposal.pdf
+2026-02-27 13:33:44,973 INFO Target selected: Documents\Resume.docx
+2026-02-27 13:33:44,977 INFO Target selected: Downloads\archive.zip
+2026-02-27 13:33:44,980 INFO Target selected: Downloads\readme.txt
+2026-02-27 13:33:44,983 INFO Target selected: Music\Playlist.txt
+2026-02-27 13:33:44,985 INFO Target selected: Music\Song1.mp3
+2026-02-27 13:33:44,987 INFO Target selected: Music\Song2.mp3
+2026-02-27 13:33:44,990 INFO Target selected: Pictures\dog.png
+2026-02-27 13:33:44,992 INFO Target selected: Pictures\Screenshot.png
+2026-02-27 13:33:44,994 INFO Target selected: Pictures\Vacation.jpg
+2026-02-27 13:33:44,998 INFO Target selected: System\log.txt
+2026-02-27 13:33:45,001 INFO Target selected: System\users.db
+2026-02-27 13:33:45,003 INFO Target selected: Videos\Demo.mp4
+2026-02-27 13:33:45,006 INFO Target selected: Videos\Lecture.mp4
+2026-02-27 13:33:45,010 INFO Simulation complete. scanned=21 targeted=18 notes=7
+2026-02-27 13:34:31,647 INFO Simulation starting (SAFE mode). Root=C:\Spring 2026\Cybersecurity Project\lordofthepings\project_files
+2026-02-27 13:34:31,653 INFO Discovered 65 total paths.
+2026-02-27 13:34:31,654 INFO Target selected: Desktop\shortcut.txt
+2026-02-27 13:34:31,657 INFO Target selected: Desktop\todo.txt
+2026-02-27 13:34:31,660 INFO Target selected: Documents\Homework.txt
+2026-02-27 13:34:31,663 INFO Target selected: Documents\Passwords.txt
+2026-02-27 13:34:31,665 INFO Target selected: Documents\ProjectProposal.pdf
+2026-02-27 13:34:31,667 INFO Target selected: Documents\Resume.docx
+2026-02-27 13:34:31,671 INFO Target selected: Downloads\archive.zip
+2026-02-27 13:34:31,673 INFO Target selected: Downloads\readme.txt
+2026-02-27 13:34:31,676 INFO Target selected: Music\Playlist.txt
+2026-02-27 13:34:31,679 INFO Target selected: Music\Song1.mp3
+2026-02-27 13:34:31,681 INFO Target selected: Music\Song2.mp3
+2026-02-27 13:34:31,683 INFO Target selected: Pictures\dog.png
+2026-02-27 13:34:31,685 INFO Target selected: Pictures\Screenshot.png
+2026-02-27 13:34:31,687 INFO Target selected: Pictures\Vacation.jpg
+2026-02-27 13:34:31,692 INFO Target selected: System\log.txt
+2026-02-27 13:34:31,694 INFO Target selected: System\users.db
+2026-02-27 13:34:31,697 INFO Target selected: Videos\Demo.mp4
+2026-02-27 13:34:31,700 INFO Target selected: Videos\Lecture.mp4
+2026-02-27 13:34:31,703 INFO Simulation complete. scanned=21 targeted=18 notes=7
+2026-03-02 13:15:53,206 INFO Simulation starting (SAFE mode). Root=C:\Spring 2026\Cybersecurity Project\lordofthepings\project_files
+2026-03-02 13:15:53,212 INFO Discovered 65 total paths.
+2026-03-02 13:15:53,213 INFO Target selected: Desktop\shortcut.txt
+2026-03-02 13:15:53,217 INFO Target selected: Desktop\todo.txt
+2026-03-02 13:15:53,218 INFO Target selected: Documents\Homework.txt
+2026-03-02 13:15:53,220 INFO Target selected: Documents\Passwords.txt
+2026-03-02 13:15:53,222 INFO Target selected: Documents\ProjectProposal.pdf
+2026-03-02 13:15:53,224 INFO Target selected: Documents\Resume.docx
+2026-03-02 13:15:53,226 INFO Target selected: Downloads\archive.zip
+2026-03-02 13:15:53,229 INFO Target selected: Downloads\readme.txt
+2026-03-02 13:15:53,232 INFO Target selected: Music\Playlist.txt
+2026-03-02 13:15:53,234 INFO Target selected: Music\Song1.mp3
+2026-03-02 13:15:53,236 INFO Target selected: Music\Song2.mp3
+2026-03-02 13:15:53,238 INFO Target selected: Pictures\dog.png
+2026-03-02 13:15:53,239 INFO Target selected: Pictures\Screenshot.png
+2026-03-02 13:15:53,241 INFO Target selected: Pictures\Vacation.jpg
+2026-03-02 13:15:53,244 INFO Target selected: System\log.txt
+2026-03-02 13:15:53,247 INFO Target selected: System\users.db
+2026-03-02 13:15:53,249 INFO Target selected: Videos\Demo.mp4
+2026-03-02 13:15:53,251 INFO Target selected: Videos\Lecture.mp4
+2026-03-02 13:15:53,253 INFO Simulation complete. scanned=21 targeted=18 notes=7
+2026-03-27 12:26:23,836 INFO Simulation starting (SAFE mode). Root=C:\Spring 2026\Cybersecurity Project\lordofthepings\project_files
+2026-03-27 12:26:23,919 INFO Discovered 65 total paths.
+2026-03-27 12:26:23,982 INFO Target selected: Desktop\shortcut.txt
+2026-03-27 12:26:24,348 INFO Target selected: Desktop\todo.txt
+2026-03-27 12:26:24,473 INFO Target selected: Documents\Homework.txt
+2026-03-27 12:26:24,601 INFO Target selected: Documents\Passwords.txt
+2026-03-27 12:26:24,737 INFO Target selected: Documents\ProjectProposal.pdf
+2026-03-27 12:26:24,871 INFO Target selected: Documents\Resume.docx
+2026-03-27 12:26:24,988 INFO Target selected: Downloads\archive.zip
+2026-03-27 12:26:25,104 INFO Target selected: Downloads\readme.txt
+2026-03-27 12:26:25,257 INFO Target selected: Music\Playlist.txt
+2026-03-27 12:26:25,380 INFO Target selected: Music\Song1.mp3
+2026-03-27 12:26:25,577 INFO Target selected: Music\Song2.mp3
+2026-03-27 12:26:25,727 INFO Target selected: Pictures\dog.png
+2026-03-27 12:26:25,872 INFO Target selected: Pictures\Screenshot.png
+2026-03-27 12:26:26,011 INFO Target selected: Pictures\Vacation.jpg
+2026-03-27 12:26:26,160 INFO Target selected: System\log.txt
+2026-03-27 12:26:26,292 INFO Target selected: System\users.db
+2026-03-27 12:26:26,486 INFO Target selected: Videos\Demo.mp4
+2026-03-27 12:26:26,607 INFO Target selected: Videos\Lecture.mp4
+2026-03-27 12:26:26,879 INFO Simulation complete. scanned=21 targeted=18 notes=7
+2026-03-27 12:39:26,987 INFO Simulation starting (SAFE mode). Root=C:\Spring 2026\Cybersecurity Project\lordofthepings\project_files
+2026-03-27 12:39:27,070 INFO Discovered 65 total paths.
+2026-03-27 12:39:27,124 INFO Target selected: Desktop\shortcut.txt
+2026-03-27 12:39:27,301 INFO Target selected: Desktop\todo.txt
+2026-03-27 12:39:27,416 INFO Target selected: Documents\Homework.txt
+2026-03-27 12:39:27,916 INFO Target selected: Documents\Passwords.txt
+2026-03-27 12:39:28,014 INFO Target selected: Documents\ProjectProposal.pdf
+2026-03-27 12:39:28,122 INFO Target selected: Documents\Resume.docx
+2026-03-27 12:39:28,227 INFO Target selected: Downloads\archive.zip
+2026-03-27 12:39:28,390 INFO Target selected: Downloads\readme.txt
+2026-03-27 12:39:28,488 INFO Target selected: Music\Playlist.txt
+2026-03-27 12:39:28,655 INFO Target selected: Music\Song1.mp3
+2026-03-27 12:39:28,763 INFO Target selected: Music\Song2.mp3
+2026-03-27 12:39:28,880 INFO Target selected: Pictures\dog.png
+2026-03-27 12:39:29,028 INFO Target selected: Pictures\Screenshot.png
+2026-03-27 12:39:29,147 INFO Target selected: Pictures\Vacation.jpg
+2026-03-27 12:39:29,260 INFO Target selected: System\log.txt
+2026-03-27 12:39:29,408 INFO Target selected: System\users.db
+2026-03-27 12:39:29,513 INFO Target selected: Videos\Demo.mp4
+2026-03-27 12:39:29,677 INFO Target selected: Videos\Lecture.mp4
+2026-03-27 12:39:29,840 INFO Simulation complete. scanned=21 targeted=18 notes=7
+2026-03-27 12:59:58,559 INFO Simulation starting (SAFE mode). Root=C:\Spring 2026\Cybersecurity Project\lordofthepings\project_files
+2026-03-27 12:59:58,969 INFO Target selected: Desktop\shortcut.txt
+2026-03-27 12:59:59,969 INFO Target selected: Desktop\todo.txt
+2026-03-27 13:00:00,835 INFO Target selected: Documents\Homework.txt
+2026-03-27 13:00:01,680 INFO Target selected: Documents\Passwords.txt
+2026-03-27 13:00:02,125 INFO Target selected: Documents\ProjectProposal.pdf
+2026-03-27 13:00:02,556 INFO Target selected: Documents\Resume.docx
+2026-03-27 13:00:02,993 INFO Target selected: Downloads\archive.zip
+2026-03-27 13:00:03,499 INFO Target selected: Downloads\readme.txt
+2026-03-27 13:00:04,052 INFO Target selected: Music\Playlist.txt
+2026-03-27 13:00:04,570 INFO Target selected: Music\Song1.mp3
+2026-03-27 13:00:05,031 INFO Target selected: Music\Song2.mp3
+2026-03-27 13:00:05,451 INFO Target selected: Pictures\dog.png
+2026-03-27 13:00:05,964 INFO Target selected: Pictures\Screenshot.png
+2026-03-27 13:00:06,388 INFO Target selected: Pictures\Vacation.jpg
+2026-03-27 13:05:58,435 INFO Simulation starting (SAFE mode). Root=C:\Spring 2026\Cybersecurity Project\lordofthepings\project_files
+2026-03-27 13:05:58,794 INFO Target selected: Desktop\shortcut.txt
+2026-03-27 13:05:59,817 INFO Target selected: Desktop\todo.txt
+2026-03-27 13:06:00,293 INFO Target selected: Documents\Homework.txt
+2026-03-27 13:06:00,836 INFO Target selected: Documents\Passwords.txt
+2026-03-27 13:06:01,736 INFO Target selected: Documents\ProjectProposal.pdf
+2026-03-27 13:06:02,326 INFO Target selected: Documents\Resume.docx
+2026-03-27 13:06:02,824 INFO Target selected: Downloads\archive.zip
+2026-03-27 13:06:03,416 INFO Target selected: Downloads\readme.txt
+2026-03-27 13:06:03,929 INFO Target selected: Music\Playlist.txt
+2026-03-27 13:06:04,450 INFO Target selected: Music\Song1.mp3
+2026-03-27 13:06:04,845 INFO Target selected: Music\Song2.mp3
+2026-03-27 13:06:05,236 INFO Target selected: Pictures\dog.png
+2026-03-27 13:06:05,725 INFO Target selected: Pictures\Screenshot.png
+2026-03-27 13:06:06,627 INFO Target selected: Pictures\Vacation.jpg
+2026-03-27 13:06:10,629 INFO Target selected: System\log.txt
+2026-03-27 13:06:11,202 INFO Target selected: System\users.db
+2026-03-27 13:06:11,633 INFO Target selected: Videos\Demo.mp4
+2026-03-27 13:06:12,172 INFO Target selected: Videos\Lecture.mp4
+2026-03-27 13:06:12,805 INFO Simulation complete. scanned=49 skipped=31 targeted=18 locked=18 notes=7 errors=0
+2026-04-20 13:15:23,145 INFO Simulation starting (SAFE mode). Root=C:\Spring 2026\Cybersecurity Project\lordofthepings\project_files
+2026-04-20 13:15:23,243 INFO Discovery started. Total paths discovered=65
+2026-04-20 13:15:23,405 INFO Skipped non-target file: .SIMULATION_ROOT
+2026-04-20 13:15:24,230 INFO Target selected: Desktop\shortcut.txt
+2026-04-20 13:15:24,594 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Desktop\shortcut.txt.locked
+2026-04-20 13:15:24,676 WARNING Ransom note written: simulation_output\LOCKED_VIEW\Desktop\RANSOM_NOTE.txt
+2026-04-20 13:15:24,842 INFO Target selected: Desktop\todo.txt
+2026-04-20 13:15:25,177 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Desktop\todo.txt.locked
+2026-04-20 13:15:25,339 INFO Target selected: Documents\Homework.txt
+2026-04-20 13:15:25,669 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Documents\Homework.txt.locked
+2026-04-20 13:15:25,744 WARNING Ransom note written: simulation_output\LOCKED_VIEW\Documents\RANSOM_NOTE.txt
+2026-04-20 13:15:25,910 INFO Target selected: Documents\Passwords.txt
+2026-04-20 13:15:26,475 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Documents\Passwords.txt.locked
+2026-04-20 13:15:26,639 INFO Target selected: Documents\ProjectProposal.pdf
+2026-04-20 13:15:26,960 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Documents\ProjectProposal.pdf.locked
+2026-04-20 13:15:27,121 INFO Target selected: Documents\Resume.docx
+2026-04-20 13:15:27,744 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Documents\Resume.docx.locked
+2026-04-20 13:15:27,904 INFO Target selected: Downloads\archive.zip
+2026-04-20 13:15:28,502 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Downloads\archive.zip.locked
+2026-04-20 13:15:28,598 WARNING Ransom note written: simulation_output\LOCKED_VIEW\Downloads\RANSOM_NOTE.txt
+2026-04-20 13:15:28,752 INFO Target selected: Downloads\readme.txt
+2026-04-20 13:15:29,084 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Downloads\readme.txt.locked
+2026-04-20 13:15:29,260 INFO Skipped non-target file: Downloads\setup.exe
+2026-04-20 13:15:29,417 INFO Target selected: Music\Playlist.txt
+2026-04-20 13:15:29,736 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Music\Playlist.txt.locked
+2026-04-20 13:15:29,813 WARNING Ransom note written: simulation_output\LOCKED_VIEW\Music\RANSOM_NOTE.txt
+2026-04-20 13:15:29,985 INFO Target selected: Music\Song1.mp3
+2026-04-20 13:15:30,299 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Music\Song1.mp3.locked
+2026-04-20 13:15:30,470 INFO Target selected: Music\Song2.mp3
+2026-04-20 13:15:30,813 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Music\Song2.mp3.locked
+2026-04-20 13:15:30,987 INFO Target selected: Pictures\dog.png
+2026-04-20 13:15:30,990 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Pictures\dog.png.locked
+2026-04-20 13:15:30,991 WARNING Ransom note written: simulation_output\LOCKED_VIEW\Pictures\RANSOM_NOTE.txt
+2026-04-20 13:15:30,992 INFO Target selected: Pictures\Screenshot.png
+2026-04-20 13:15:30,996 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Pictures\Screenshot.png.locked
+2026-04-20 13:15:30,998 INFO Target selected: Pictures\Vacation.jpg
+2026-04-20 13:15:31,001 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Pictures\Vacation.jpg.locked
+2026-04-20 13:15:31,002 INFO Skipped excluded path: simulation_output\events.jsonl
+2026-04-20 13:15:31,004 INFO Skipped excluded path: simulation_output\manifest.json
+2026-04-20 13:15:31,005 INFO Skipped excluded path: simulation_output\sim.log
+2026-04-20 13:15:31,009 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Desktop\RANSOM_NOTE.txt
+2026-04-20 13:15:31,010 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Desktop\shortcut.txt.locked
+2026-04-20 13:15:31,013 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Desktop\todo.txt.locked
+2026-04-20 13:15:31,015 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Documents\Homework.txt.locked
+2026-04-20 13:15:31,016 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Documents\Passwords.txt.locked
+2026-04-20 13:15:31,017 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Documents\ProjectProposal.pdf.locked
+2026-04-20 13:15:31,018 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Documents\RANSOM_NOTE.txt
+2026-04-20 13:15:31,019 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Documents\Resume.docx.locked
+2026-04-20 13:15:31,020 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Downloads\archive.zip.locked
+2026-04-20 13:15:31,021 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Downloads\RANSOM_NOTE.txt
+2026-04-20 13:15:31,022 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Downloads\readme.txt.locked
+2026-04-20 13:15:31,022 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Music\Playlist.txt.locked
+2026-04-20 13:15:31,023 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Music\RANSOM_NOTE.txt
+2026-04-20 13:15:31,024 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Music\Song1.mp3.locked
+2026-04-20 13:15:31,026 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Music\Song2.mp3.locked
+2026-04-20 13:15:31,028 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Pictures\dog.png.locked
+2026-04-20 13:15:31,029 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Pictures\RANSOM_NOTE.txt
+2026-04-20 13:15:31,031 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Pictures\Screenshot.png.locked
+2026-04-20 13:15:31,033 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Pictures\Vacation.jpg.locked
+2026-04-20 13:15:31,035 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\System\log.txt.locked
+2026-04-20 13:15:31,036 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\System\RANSOM_NOTE.txt
+2026-04-20 13:15:31,038 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\System\users.db.locked
+2026-04-20 13:15:31,039 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Videos\Demo.mp4.locked
+2026-04-20 13:15:31,040 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Videos\Lecture.mp4.locked
+2026-04-20 13:15:31,040 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Videos\RANSOM_NOTE.txt
+2026-04-20 13:15:31,042 INFO Skipped non-target file: System\config.sys
+2026-04-20 13:15:31,045 INFO Target selected: System\log.txt
+2026-04-20 13:15:31,048 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\System\log.txt.locked
+2026-04-20 13:15:31,050 WARNING Ransom note written: simulation_output\LOCKED_VIEW\System\RANSOM_NOTE.txt
+2026-04-20 13:15:31,051 INFO Target selected: System\users.db
+2026-04-20 13:15:31,054 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\System\users.db.locked
+2026-04-20 13:15:31,055 INFO Target selected: Videos\Demo.mp4
+2026-04-20 13:15:31,059 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Videos\Demo.mp4.locked
+2026-04-20 13:15:31,061 WARNING Ransom note written: simulation_output\LOCKED_VIEW\Videos\RANSOM_NOTE.txt
+2026-04-20 13:15:31,063 INFO Target selected: Videos\Lecture.mp4
+2026-04-20 13:15:31,068 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Videos\Lecture.mp4.locked
+2026-04-20 13:15:31,070 INFO Simulation complete. scanned=49 skipped=31 targeted=18 locked=18 notes=7 errors=0
+2026-04-20 13:18:16,762 INFO Simulation starting (SAFE mode). Root=C:\Spring 2026\Cybersecurity Project\lordofthepings\project_files
+2026-04-20 13:18:16,838 INFO Discovery started. Total paths discovered=65
+2026-04-20 13:18:16,985 INFO Skipped non-target file: .SIMULATION_ROOT
+2026-04-20 13:18:18,002 INFO Target selected: Desktop\shortcut.txt
+2026-04-20 13:18:18,334 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Desktop\shortcut.txt.locked
+2026-04-20 13:18:18,408 WARNING Ransom note written: simulation_output\LOCKED_VIEW\Desktop\RANSOM_NOTE.txt
+2026-04-20 13:18:18,550 INFO Target selected: Desktop\todo.txt
+2026-04-20 13:18:18,840 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Desktop\todo.txt.locked
+2026-04-20 13:18:19,002 INFO Target selected: Documents\Homework.txt
+2026-04-20 13:18:19,293 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Documents\Homework.txt.locked
+2026-04-20 13:18:19,368 WARNING Ransom note written: simulation_output\LOCKED_VIEW\Documents\RANSOM_NOTE.txt
+2026-04-20 13:18:19,513 INFO Target selected: Documents\Passwords.txt
+2026-04-20 13:18:19,824 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Documents\Passwords.txt.locked
+2026-04-20 13:18:19,972 INFO Target selected: Documents\ProjectProposal.pdf
+2026-04-20 13:18:20,260 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Documents\ProjectProposal.pdf.locked
+2026-04-20 13:18:20,652 INFO Target selected: Documents\Resume.docx
+2026-04-20 13:18:20,960 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Documents\Resume.docx.locked
+2026-04-20 13:18:21,114 INFO Target selected: Downloads\archive.zip
+2026-04-20 13:18:21,410 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Downloads\archive.zip.locked
+2026-04-20 13:18:21,482 WARNING Ransom note written: simulation_output\LOCKED_VIEW\Downloads\RANSOM_NOTE.txt
+2026-04-20 13:18:21,634 INFO Target selected: Downloads\readme.txt
+2026-04-20 13:18:21,926 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Downloads\readme.txt.locked
+2026-04-20 13:18:22,074 INFO Skipped non-target file: Downloads\setup.exe
+2026-04-20 13:18:22,226 INFO Target selected: Music\Playlist.txt
+2026-04-20 13:18:23,092 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Music\Playlist.txt.locked
+2026-04-20 13:18:23,177 WARNING Ransom note written: simulation_output\LOCKED_VIEW\Music\RANSOM_NOTE.txt
+2026-04-20 13:18:23,351 INFO Target selected: Music\Song1.mp3
+2026-04-20 13:18:23,629 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Music\Song1.mp3.locked
+2026-04-20 13:18:23,777 INFO Target selected: Music\Song2.mp3
+2026-04-20 13:18:24,071 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Music\Song2.mp3.locked
+2026-04-20 13:18:24,224 INFO Target selected: Pictures\dog.png
+2026-04-20 13:18:24,833 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Pictures\dog.png.locked
+2026-04-20 13:18:24,903 WARNING Ransom note written: simulation_output\LOCKED_VIEW\Pictures\RANSOM_NOTE.txt
+2026-04-20 13:18:25,053 INFO Target selected: Pictures\Screenshot.png
+2026-04-20 13:18:25,364 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Pictures\Screenshot.png.locked
+2026-04-20 13:18:25,506 INFO Target selected: Pictures\Vacation.jpg
+2026-04-20 13:18:26,053 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Pictures\Vacation.jpg.locked
+2026-04-20 13:18:26,208 INFO Skipped excluded path: simulation_output\events.jsonl
+2026-04-20 13:18:26,474 INFO Skipped excluded path: simulation_output\manifest.json
+2026-04-20 13:18:26,641 INFO Skipped excluded path: simulation_output\sim.log
+2026-04-20 13:18:27,333 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Desktop\RANSOM_NOTE.txt
+2026-04-20 13:18:27,496 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Desktop\shortcut.txt.locked
+2026-04-20 13:18:27,653 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Desktop\todo.txt.locked
+2026-04-20 13:18:27,803 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Documents\Homework.txt.locked
+2026-04-20 13:18:27,973 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Documents\Passwords.txt.locked
+2026-04-20 13:18:28,132 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Documents\ProjectProposal.pdf.locked
+2026-04-20 13:18:28,305 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Documents\RANSOM_NOTE.txt
+2026-04-20 13:18:28,455 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Documents\Resume.docx.locked
+2026-04-20 13:18:28,609 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Downloads\archive.zip.locked
+2026-04-20 13:18:28,756 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Downloads\RANSOM_NOTE.txt
+2026-04-20 13:18:28,900 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Downloads\readme.txt.locked
+2026-04-20 13:18:29,053 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Music\Playlist.txt.locked
+2026-04-20 13:18:29,209 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Music\RANSOM_NOTE.txt
+2026-04-20 13:18:29,392 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Music\Song1.mp3.locked
+2026-04-20 13:18:29,560 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Music\Song2.mp3.locked
+2026-04-20 13:18:29,716 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Pictures\dog.png.locked
+2026-04-20 13:18:29,868 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Pictures\RANSOM_NOTE.txt
+2026-04-20 13:18:30,039 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Pictures\Screenshot.png.locked
+2026-04-20 13:18:30,228 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Pictures\Vacation.jpg.locked
+2026-04-20 13:18:30,423 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\System\log.txt.locked
+2026-04-20 13:18:30,604 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\System\RANSOM_NOTE.txt
+2026-04-20 13:18:30,765 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\System\users.db.locked
+2026-04-20 13:18:30,922 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Videos\Demo.mp4.locked
+2026-04-20 13:18:31,085 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Videos\Lecture.mp4.locked
+2026-04-20 13:18:31,254 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Videos\RANSOM_NOTE.txt
+2026-04-20 13:18:31,412 INFO Skipped non-target file: System\config.sys
+2026-04-20 13:18:31,572 INFO Target selected: System\log.txt
+2026-04-20 13:18:31,912 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\System\log.txt.locked
+2026-04-20 13:18:32,005 WARNING Ransom note written: simulation_output\LOCKED_VIEW\System\RANSOM_NOTE.txt
+2026-04-20 13:18:32,177 INFO Target selected: System\users.db
+2026-04-20 13:18:32,496 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\System\users.db.locked
+2026-04-20 13:18:32,661 INFO Target selected: Videos\Demo.mp4
+2026-04-20 13:18:32,986 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Videos\Demo.mp4.locked
+2026-04-20 13:18:33,064 WARNING Ransom note written: simulation_output\LOCKED_VIEW\Videos\RANSOM_NOTE.txt
+2026-04-20 13:18:33,229 INFO Target selected: Videos\Lecture.mp4
+2026-04-20 13:18:33,552 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Videos\Lecture.mp4.locked
+2026-04-20 13:18:33,786 INFO Simulation complete. scanned=49 skipped=31 targeted=18 locked=18 notes=7 errors=0
+2026-04-21 22:46:30,138 INFO Simulation starting (SAFE mode). Root=C:\Users\jakek\Desktop\Repositories\lordofthepings\project_files
+2026-04-21 22:46:30,150 INFO Discovery started. Total paths discovered=68
+2026-04-21 22:46:30,160 INFO Skipped non-target file: .SIMULATION_ROOT
+2026-04-21 22:46:30,217 INFO Target selected: Desktop\shortcut.txt
+2026-04-21 22:46:30,242 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Desktop\shortcut.txt.locked
+2026-04-21 22:46:30,248 WARNING Ransom note written: simulation_output\LOCKED_VIEW\Desktop\RANSOM_NOTE.txt
+2026-04-21 22:46:30,258 INFO Target selected: Desktop\todo.txt
+2026-04-21 22:46:30,279 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Desktop\todo.txt.locked
+2026-04-21 22:46:30,289 INFO Target selected: Documents\Homework.txt
+2026-04-21 22:46:30,311 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Documents\Homework.txt.locked
+2026-04-21 22:46:30,317 WARNING Ransom note written: simulation_output\LOCKED_VIEW\Documents\RANSOM_NOTE.txt
+2026-04-21 22:46:30,327 INFO Target selected: Documents\Passwords.txt
+2026-04-21 22:46:30,361 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Documents\Passwords.txt.locked
+2026-04-21 22:46:30,373 INFO Target selected: Documents\ProjectProposal.pdf
+2026-04-21 22:46:30,397 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Documents\ProjectProposal.pdf.locked
+2026-04-21 22:46:30,408 INFO Target selected: Documents\Resume.docx
+2026-04-21 22:46:30,429 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Documents\Resume.docx.locked
+2026-04-21 22:46:30,441 INFO Target selected: Downloads\archive.zip
+2026-04-21 22:46:30,464 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Downloads\archive.zip.locked
+2026-04-21 22:46:30,471 WARNING Ransom note written: simulation_output\LOCKED_VIEW\Downloads\RANSOM_NOTE.txt
+2026-04-21 22:46:30,482 INFO Target selected: Downloads\readme.txt
+2026-04-21 22:46:30,503 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Downloads\readme.txt.locked
+2026-04-21 22:46:30,515 INFO Skipped non-target file: Downloads\setup.exe
+2026-04-21 22:46:30,525 INFO Target selected: Music\Playlist.txt
+2026-04-21 22:46:30,547 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Music\Playlist.txt.locked
+2026-04-21 22:46:30,552 WARNING Ransom note written: simulation_output\LOCKED_VIEW\Music\RANSOM_NOTE.txt
+2026-04-21 22:46:30,562 INFO Target selected: Music\Song1.mp3
+2026-04-21 22:46:30,587 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Music\Song1.mp3.locked
+2026-04-21 22:46:30,599 INFO Target selected: Music\Song2.mp3
+2026-04-21 22:46:30,624 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Music\Song2.mp3.locked
+2026-04-21 22:46:30,635 INFO Target selected: Pictures\dog.png
+2026-04-21 22:46:30,660 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Pictures\dog.png.locked
+2026-04-21 22:46:30,668 WARNING Ransom note written: simulation_output\LOCKED_VIEW\Pictures\RANSOM_NOTE.txt
+2026-04-21 22:46:30,680 INFO Target selected: Pictures\Screenshot.png
+2026-04-21 22:46:30,709 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Pictures\Screenshot.png.locked
+2026-04-21 22:46:30,719 INFO Target selected: Pictures\Vacation.jpg
+2026-04-21 22:46:30,739 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Pictures\Vacation.jpg.locked
+2026-04-21 22:46:30,749 INFO Skipped excluded path: simulation_output\events.jsonl
+2026-04-21 22:46:30,762 INFO Skipped excluded path: simulation_output\manifest.json
+2026-04-21 22:46:30,771 INFO Skipped excluded path: simulation_output\sim.log
+2026-04-21 22:46:30,815 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Desktop\RANSOM_NOTE.txt
+2026-04-21 22:46:30,827 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Desktop\shortcut.txt.locked
+2026-04-21 22:46:30,838 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Desktop\todo.txt.locked
+2026-04-21 22:46:30,850 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Documents\Homework.txt.locked
+2026-04-21 22:46:30,862 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Documents\Passwords.txt.locked
+2026-04-21 22:46:30,874 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Documents\ProjectProposal.pdf.locked
+2026-04-21 22:46:30,887 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Documents\RANSOM_NOTE.txt
+2026-04-21 22:46:30,899 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Documents\Resume.docx.locked
+2026-04-21 22:46:30,911 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Downloads\archive.zip.locked
+2026-04-21 22:46:30,920 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Downloads\RANSOM_NOTE.txt
+2026-04-21 22:46:30,930 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Downloads\readme.txt.locked
+2026-04-21 22:46:30,940 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Music\Playlist.txt.locked
+2026-04-21 22:46:30,950 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Music\RANSOM_NOTE.txt
+2026-04-21 22:46:30,959 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Music\Song1.mp3.locked
+2026-04-21 22:46:30,969 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Music\Song2.mp3.locked
+2026-04-21 22:46:30,979 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Pictures\dog.png.locked
+2026-04-21 22:46:30,987 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Pictures\RANSOM_NOTE.txt
+2026-04-21 22:46:30,998 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Pictures\Screenshot.png.locked
+2026-04-21 22:46:31,008 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Pictures\Vacation.jpg.locked
+2026-04-21 22:46:31,016 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\System\log.txt.locked
+2026-04-21 22:46:31,028 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\System\RANSOM_NOTE.txt
+2026-04-21 22:46:31,044 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\System\users.db.locked
+2026-04-21 22:46:31,056 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Videos\Demo.mp4.locked
+2026-04-21 22:46:31,076 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Videos\Lecture.mp4.locked
+2026-04-21 22:46:31,090 INFO Skipped excluded path: simulation_output\LOCKED_VIEW\Videos\RANSOM_NOTE.txt
+2026-04-21 22:46:31,109 INFO Skipped non-target file: System\config.sys
+2026-04-21 22:46:31,135 INFO Target selected: System\log.txt
+2026-04-21 22:46:31,168 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\System\log.txt.locked
+2026-04-21 22:46:31,176 WARNING Ransom note written: simulation_output\LOCKED_VIEW\System\RANSOM_NOTE.txt
+2026-04-21 22:46:31,194 INFO Target selected: System\users.db
+2026-04-21 22:46:31,217 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\System\users.db.locked
+2026-04-21 22:46:31,234 INFO Target selected: Videos\Demo.mp4
+2026-04-21 22:46:31,258 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Videos\Demo.mp4.locked
+2026-04-21 22:46:31,265 WARNING Ransom note written: simulation_output\LOCKED_VIEW\Videos\RANSOM_NOTE.txt
+2026-04-21 22:46:31,278 INFO Target selected: Videos\Lecture.mp4
+2026-04-21 22:46:31,323 WARNING Locked placeholder created: simulation_output\LOCKED_VIEW\Videos\Lecture.mp4.locked
+2026-04-21 22:46:31,351 INFO Simulation complete. scanned=49 skipped=31 targeted=18 locked=18 notes=7 errors=0

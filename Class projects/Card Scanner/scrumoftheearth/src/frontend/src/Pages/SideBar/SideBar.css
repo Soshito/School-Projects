@@ -1,0 +1,101 @@
+.sidebar-bottom {
+    display: flex;
+    flex-direction: column;
+    position: center;
+    align-items: center;
+    height: auto;
+    padding: 10px;
+    max-height: 30px;
+}
+
+.vbox {
+    display: grid;
+    grid-template-rows: repeat(8, 1fr);
+    gap: 5%;
+    width: 100%;
+    padding: 10px;
+    position: center;
+    height: fit-content;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-flex;
+  }
+  
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 1;
+    opacity: 0;
+    transition: opacity .5s;
+  }
+  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 0.75;
+    pointer-events: none;
+  }
+
+.signoutButton {
+    font-size: 1.5h;
+    background-color: white;
+    color: black;
+    min-width: none;
+    min-height: 20px;
+    max-width: 300px;
+    max-height: 100px;
+}
+
+.button {
+    width: 100%;
+    padding: 20px;
+    font-size: 1.75vh;
+    background-color: white;
+    color: black;
+    height: 9vh;
+    border: solid 1px black;
+    cursor: pointer;
+    outline: none;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#createUser{
+    background-image: url("../../Components/Assets/buttonBackgrounds/CreateUserIcon.jpg");
+}
+
+#viewUsers{
+    background-image: url("../../Components/Assets/buttonBackgrounds/people.png");
+}
+
+#createCourse{
+    background-image: url("../../Components/Assets/buttonBackgrounds/CreateCourseIcon.jpg");
+}
+
+#createMeetingTime{
+    background-image: url("../../Components/Assets/buttonBackgrounds/MeetingTimeIcon.png");
+}
+
+#createSection{
+    background-image: url("../../Components/Assets/buttonBackgrounds/SectionIcon.png");
+}
+
+#createEnrollment{
+    background-image: url("../../Components/Assets/buttonBackgrounds/EnrollmentIcon.jpg");
+}
+
+#viewEnrollments{
+    background-image: url("../../Components/Assets/buttonBackgrounds/person.png");
+}
+
+#viewAttendanceLogs{
+    background-image: url("../../Components/Assets/buttonBackgrounds/calander.png");
+}

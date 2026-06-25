@@ -1,0 +1,29 @@
+.body {
+  display: flex;
+}
+
+.sidebar {
+  position: fixed; /* Keep sidebar fixed on the left */
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 200px; /* Width of the sidebar */
+  background-color: #282828; /* Background color of the sidebar */
+}
+
+.main-content {
+  margin-left: 200px; /* Push main-content to the right by the width of the sidebar */
+}
+
+.top-bar {
+  position: fixed;
+  width: 100%;
+  top: 0; /* Align to the top edge of the viewport */
+  background-color: #fe8019;
+  height: 20px; /* Height of the top bar */
+  z-index: 1; /* Ensure it's above other content */
+}
+
+.center-content {
+  margin-top: 20px;
+}

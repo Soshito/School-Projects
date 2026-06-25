@@ -1,0 +1,21 @@
+/*
+Name: Sam Miller
+Project: Attendance App - This is a full stack attendance tracking and managament software
+Purpose: Styling of the CreateUser.js file
+*/
+
+.input-box {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.input-box h2 {
+    margin-bottom: 5px;
+}
+
+.input-box input, .input-box select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}

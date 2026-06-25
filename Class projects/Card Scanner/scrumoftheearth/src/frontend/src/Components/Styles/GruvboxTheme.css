@@ -1,0 +1,95 @@
+.wrapper {
+    background-color: #282828; /* Gruvbox dark gray background */
+    color: #ebdbb2; /* Gruvbox foreground */
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    border-radius: 8px;
+    max-height: fit-content;
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+h1, h2 {
+    color: #d79921; /* Gruvbox yellow for headers */
+}
+
+.input-box {
+    margin-bottom: 20px;
+}
+
+.input-box h2 {
+    margin-bottom: 10px;
+}
+
+input[type="text"], input[type="number"], input[type="time"] {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #504945; /* Gruvbox light gray for borders */
+    background-color: #3c3836; /* Gruvbox dark gray for input background */
+    color: #ebdbb2; /* Gruvbox light cream for text color */
+    border-radius: 4px;
+    box-sizing: border-box; /* Includes padding and border in the element's width */
+}
+
+input[type="text"]::placeholder, input[type="number"]::placeholder, input[type="time"]::placeholder {
+    color: #ebdbb2; /* Same as the input text color */
+    opacity: 1; /* Fully opaque */
+}
+
+.form-select {
+    display: block;
+    width: 100%;
+    padding: 8px 10px;
+    background-color: #3c3836; /* Example: Gruvbox blue for dropdown background */
+    color: #ebdbb2; /* Gruvbox light cream for text color */
+    border: 2px solid #d79921; /* Gruvbox light gray for border */
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.form-select:focus {
+    outline: none;
+    border-color: #d79921; /* Gruvbox yellow for focus */
+}
+
+
+input[type="text"]:focus, input[type="number"]:focus, input[type="time"]:focus {
+    border-color: #d79921; /* Gruvbox yellow for focus */
+}
+
+button {
+    background-color: white;
+    color: #ebdbb2;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #83a598; /* Lighter Gruvbox blue */
+}
+
+button[type="button"]:hover {
+    background-color: #83a598; /* Lighter Gruvbox blue */
+}
+
+.feedback-message {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid;
+}
+
+.success-message {
+    color: green;
+    background-color: #ddffdd;
+    border-color: green;
+}
+
+.error-message {
+    color: red;
+    background-color: #ffdddd;
+    border-color: red;
+}
